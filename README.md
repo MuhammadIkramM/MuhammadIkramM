@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Muhammad Ikram Muslimin**.\
+Perkenalkan nama saya **Muhammad Ikram Muslimin**.
 
 Saya ingin menjadi seorang **Mobile Developer** 
 
